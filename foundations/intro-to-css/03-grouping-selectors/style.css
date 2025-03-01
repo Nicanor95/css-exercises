@@ -1,0 +1,13 @@
+.black, .yellow { /* You can also use button, on this occasion */
+	font-family: Helvetica, 'Times New Roman', sans-serif;
+	font-size: 28px;
+}
+
+.black {
+	background-color: #101010;
+	color: #FAFAFA;
+}
+
+.yellow {
+	background-color: yellow;
+}
